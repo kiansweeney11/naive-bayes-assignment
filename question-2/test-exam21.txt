@@ -1,0 +1,5 @@
+<s> c </s>
+<s> b </s>
+<s> b b </s>
+<s> b a </s>
+<s> a b c </s>
